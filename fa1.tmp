@@ -1,0 +1,16 @@
+Iput pl/0 file ?Y
+0 var a,b;
+
+1 begin
+
+2  a:=4;
+
+4  b:=4;
+
+6  write(a+++++a);
+
+17  write(a);
+
+20  
+
+20 end.

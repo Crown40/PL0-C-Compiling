@@ -1,0 +1,8 @@
+var a;
+begin
+ a:=88;
+ a+=10;
+ write(a);
+ a-=5;
+ write(a);
+end.
