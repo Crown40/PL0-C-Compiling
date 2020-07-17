@@ -1,8 +1,0 @@
-var a,b;
-begin
- a:=4;
- b:=4;
- write(a+++++a);
- write(a);
- 
-end.
