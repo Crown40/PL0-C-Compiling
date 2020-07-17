@@ -1,8 +1,0 @@
-var a,b,c;
-begin
- a:=88;
- read(b);
- c:=a+b*(3+b) ;
- write(c)
-end.
-
